@@ -1,28 +1,33 @@
 # main menu
 [[main]]
-name = "Home"
-url = "/"
+name = "About Us"
+url = "about-us/"
 weight = 1
 
 [[main]]
-name = "Blog"
-url = "blog/"
+name = "Our Services"
+url = "our-services/"
 weight = 2
 
-[[main]]
-name = "Pricing"
-url = "pricing/"
-weight = 3
+#[[main]]
+#name = "Blog"
+#url = "blog/"
+#weight = 2
+
+#[[main]]
+#name = "Pricing"
+#url = "pricing/"
+#weight = 3
 
 [[main]]
 name = "Contact"
 url = "contact/"
 weight = 4
 
-[[main]]
-name = "FAQ"
-url = "faq/"
-weight = 5
+#[[main]]
+#name = "FAQ"
+#url = "faq/"
+#weight = 5
 
 # footer menu left
 [[footer_left]]

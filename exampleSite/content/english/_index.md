@@ -1,9 +1,9 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Let us solve your critical website <br> development challenges"
+  title : "Don't just dream a career.<br>Do what it takes to get there."
   image : "images/banner-art.svg"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
+  content : "We are a boutique career consulting firm that specializes in helping ambitious Japanese students land a dream job overseas.<br>It's much easier to dream a career than to live in it, so we are here to help you get to where you want to be."
   button:
     enable : true
     label : "Contact Us"
@@ -12,7 +12,7 @@ banner:
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "Something You Need To Know"
+  title : "Our Services"
   feature_item:
     # feature item loop
     - name : "Clean Code"
@@ -51,7 +51,7 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "It is the most advanced digital marketing and it company."
+    - title : "We are your trusted career advisors."
       images:
       - "images/service-1.png"
       - "images/service-2.png"
@@ -63,7 +63,7 @@ service:
         link : "#"
         
     # service item loop
-    - title : "It is a privately owned Information and cyber security company"
+    - title : "We partner with select corporations to offer exclusive career opportunities."
       images:
       - "images/service-1.png"
       content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
@@ -73,7 +73,7 @@ service:
         link : "#"
         
     # service item loop
-    - title : "It’s a team of experienced and skilled people with distributions"
+    - title : "We are a team of professionals with international experience."
       images:
       - "images/service-2.png"
       content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
@@ -83,7 +83,7 @@ service:
         link : "#"
         
     # service item loop
-    - title : "A company standing different from others"
+    - title : "Our services for students are always free of charge."
       images:
       - "images/service-3.png"
       content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
@@ -95,7 +95,7 @@ service:
 ################### Screenshot ########################
 screenshot:
   enable : true
-  title : "Experience the best <br> workflow with us"
+  title : "Launch your career strong.<br>We'll make sure you can DO it."
   image : "images/screenshot.svg"
 
   
@@ -103,7 +103,7 @@ screenshot:
 ##################### Call to action #####################
 call_to_action:
   enable : true
-  title : "Ready to get started?"
+  title : "Ready to build your dream career?"
   image : "images/cta.svg"
   content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
   button:
