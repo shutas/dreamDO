@@ -1,7 +1,7 @@
 ############################# English ############################
 [en]
 languageName = "English"
-title = "DreamDo Career"
+title = "DreamDO Career"
 contentDir = "content/english" # content/english
 weight = 1
 ########### footer content ##########
@@ -14,11 +14,11 @@ copyright = "Copyright &copy; 2023 DreamDO Career"
 
 
 
-############################# Deutsch ############################
-[de]
+############################# Japanese ############################
+[ja]
 languageName = "日本語"
-title = "DreamDo Career"
-contentDir = "content/deutsch" # content/german
+title = "DreamDO Career"
+contentDir = "content/japanese"
 weight = 2
 ########### footer content ##########
 footer_menu_left = "Firma"

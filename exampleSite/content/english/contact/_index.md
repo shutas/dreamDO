@@ -8,6 +8,6 @@ draft: false
 
 
 ### Looking to build your career? Let us help.
-We offer a wide range of services to help you land your dream job. Partner with us to unlock your full potential - stop dreaming and do what it takes to get where you dreamt. Your first step is to contact us via the form on the left or the address below!
+We offer a wide range of services to help you land your dream job. Partner with us to unlock your full potential, and turn your dream career into a reality. Your first step starts here by contacting us via the form or email!
 
 * **E-Mail: support@dreamdo-career.com**

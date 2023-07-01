@@ -1,9 +1,9 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Don't just dream a career.<br>Do what it takes to get there."
+  title : "Don't just dream a career.<br>Make it a reality."
   image : "images/banner-art.svg"
-  content : "We are a boutique career consulting firm that specializes in helping ambitious Japanese students land a dream job overseas.<br>It's much easier to dream a career than to live in it, so we are here to help you get to where you want to be."
+  content : "We help ambitious Japanese students land a dream job overseas.<br>It's much easier to dream a career than to live in it, so we are here to help you _DO_&nbsp; what it takes to get there."
   button:
     enable : true
     label : "Contact Us"
@@ -15,34 +15,34 @@ feature:
   title : "Our Services"
   feature_item:
     # feature item loop
-    - name : "Clean Code"
-      icon : "fas fa-code"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "Career Assessment"
+      icon : "fas fa-check"
+      content : "We assess your inherent strengths and weaknesses to help you identify professions and career paths that naturally suites your innate abilities."
       
     # feature item loop
-    - name : "Object Oriented"
-      icon : "fas fa-object-group"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "Job Hunt Strategy/Roadmap"
+      icon : "fas fa-road"
+      content : "We build strategic roadmaps based on your personal career goal to guide you what steps you need to take now until you secure your dream job."
       
     # feature item loop
-    - name : "24h Service"
-      icon : "fas fa-user-clock"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "Career Consulting"
+      icon : "fas fa-briefcase"
+      content : "We provide one-on-one online sessions with one of our career professionals to go over any questions/concerns you may have with the job search process."
       
     # feature item loop
-    - name : "Value For Money"
-      icon : "fas fa-heart"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "Resume Review"
+      icon : "fas fa-file"
+      content : "We provide verbal/written feedback of your current resume to make sure it stands out from the rest of the crowd."
       
     # feature item loop
-    - name : "Faster Response"
-      icon : "fas fa-tachometer-alt"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "Mock Interview"
+      icon : "fas fa-comments"
+      content : "We conduct online mock interviews with targeted questions to help you brush up your interview responses."
       
     # feature item loop
-    - name : "Cloud Support"
-      icon : "fas fa-cloud"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    - name : "...and more!"
+      #icon : "fas fa-cloud"
+      content : "We provide personalized career services to the best of our abilities based on individual needs and requests to help you achieve your career goal."
       
 
 
@@ -95,7 +95,7 @@ service:
 ################### Screenshot ########################
 screenshot:
   enable : true
-  title : "Launch your career strong.<br>We'll make sure you can DO it."
+  title : "Launch your career strong.<br>We'll make sure you can _DO_&nbsp; it."
   image : "images/screenshot.svg"
 
   
@@ -105,7 +105,7 @@ call_to_action:
   enable : true
   title : "Ready to build your dream career?"
   image : "images/cta.svg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  content : "You can't live the dream unless you start somewhere. Contact us and take your first step towards your dream career."
   button:
     enable : true
     label : "Contact Us"
