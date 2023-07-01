@@ -56,9 +56,9 @@ service:
       - "images/service-1.png"
       - "images/service-2.png"
       - "images/service-3.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "We offer private career consulting sessions so that we can have honest discussions about your career and how to make it happen. Your information is strictly confidential with us."
       button:
-        enable : true
+        enable : false
         label : "Check it out"
         link : "#"
         
@@ -66,9 +66,9 @@ service:
     - title : "We partner with select corporations to offer exclusive career opportunities."
       images:
       - "images/service-1.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "We maintain strong relationships with corporations from various industries who are looking for multilingual talent. You will have access to exclusive offers using our existing relationships."
       button:
-        enable : true
+        enable : false
         label : "Check it out"
         link : "#"
         
@@ -76,9 +76,9 @@ service:
     - title : "We are a team of professionals with international experience."
       images:
       - "images/service-2.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "Our career advisors were once in your shoes who now work globally. We know the best way to your dream career since we are already there."
       button:
-        enable : true
+        enable : false
         label : "Check it out"
         link : "#"
         
@@ -86,17 +86,17 @@ service:
     - title : "Our services for students are always free of charge."
       images:
       - "images/service-3.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "We do not charge even a single penny for any career services we provide to our student clients. We want you to dedicate your time searching for your dream careers instead of worrying about how to fund the search."
       button:
-        enable : true
+        enable : false
         label : "Check it out"
         link : "#"
         
 ################### Screenshot ########################
-screenshot:
-  enable : true
-  title : "Launch your career strong.<br>We'll make sure you can _DO_&nbsp; it."
-  image : "images/screenshot.svg"
+#screenshot:
+#  enable : true
+#  title : "Launch your career strong.<br>We'll make sure you can _DO_&nbsp; it."
+#  image : "images/screenshot.svg"
 
   
 
