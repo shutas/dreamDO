@@ -6,13 +6,22 @@ description: "This is meta description"
 draft: false
 ---
 
-#### Our Team
+## Our Team
 
-|**Role**|**Name**|
-|-|-|
-|Chief Executive Officer|Shun Tsukazaki|
-|Chief Financial Officer|Lilica Kurata|
-|Chief Operating Officer|Momoko Sato|
-|Chief Financial Officer|Natsuki Mizutani|
-|Chief Information Officer/Chief Information Security Officer|Shuta Suzuki|
-|General Counsel|Maya Tsukazaki|
+### Shun Tsukazaki
+Chief Executive Officer
+
+### Lilica Kurata
+Chief Financial Officer
+
+### Momoko Sato
+Chief Operating Officer
+
+### Natsuki Mizutani
+Chief Marketing Officer
+
+### Shuta Suzuki
+Chief Information Officer / Chief Information Security Officer
+
+### General Counsel
+Maya Tsukazaki
