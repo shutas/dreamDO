@@ -3,7 +3,7 @@
 banner:
   title : "人生一度きり。 <br> 夢を見るだけでは終われない。"
   image : "images/banner-art.svg"
-  content : "グローバルな時代だからこそ、海外で働きたい。<br>そんな夢をDreamDO Careerは応援します。"
+  content : "グローバルな時代だからこそ、海外で働きたい。<br>そんな夢をDreamDO Careerは応援いたします。"
   button:
     enable : true
     label : "お問い合わせ"
@@ -50,63 +50,63 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "It is the most advanced digital marketing and it company."
+    - title : "心の底の本音を聞かせてください。"
       images:
       - "images/service-1.png"
       - "images/service-2.png"
       - "images/service-3.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "自分の気持ちに正直なキャリアを歩んでほしいからこそ、信頼できるパートナーでありたい。完全個別指導によって、あなたの夢を応援いたします。"
       button:
-        enable : true
+        enable : false
         label : "Check it out"
         link : "#"
         
     # service item loop
-    - title : "It is a privately owned Information and cyber security company"
+    - title : "理想のキャリアに近づくための特別な機会を提供いたします。"
       images:
       - "images/service-1.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "マルチリンガルな人材を求める幅広い業界の企業と提携しており、非公開の特別なオファーをご用意しております。理想のキャリア構築のため、ご活用ください。"
       button:
-        enable : true
+        enable : false
         label : "Check it out"
         link : "#"
         
     # service item loop
-    - title : "It’s a team of experienced and skilled people with distributions"
+    - title : "海外経験が豊富なプロフェッショナルがサポートします。"
       images:
       - "images/service-2.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "海外の就職活動を成功させた自社のプロフェッショナル陣が直接あなたをサポートいたします。自身の経験に基づいているからこそ、アドバイスが的確です。"
       button:
-        enable : true
+        enable : false
         label : "Check it out"
         link : "#"
         
     # service item loop
-    - title : "A company standing different from others"
+    - title : "学生向けのサービスは完全無料です。"
       images:
       - "images/service-3.png"
-      content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel consquat."
+      content : "夢に向かって理想のキャリアを作るためだけに全力投球してほしいからこそ、費用の心配は一切かけたくないのがDreamDO Careerの考えです。"
       button:
-        enable : true
+        enable : false
         label : "Check it out"
         link : "#"
         
 ################### Screenshot ########################
-screenshot:
-  enable : true
-  title : "Experience the best <br> workflow with us"
-  image : "images/screenshot.svg"
+#screenshot:
+#  enable : true
+#  title : "Experience the best <br> workflow with us"
+#  image : "images/screenshot.svg"
 
   
 
 ##################### Call to action #####################
 call_to_action:
   enable : true
-  title : "Ready to get started?"
+  title : "理想のキャリアを手に入れてみませんか?"
   image : "images/cta.svg"
-  content : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique eget amet, tempus eu at consecttur."
+  content : "夢は見るだけでなく、自分の手でつかむもの。DreamDO Careerで理想のキャリアを手に入れましょう。"
   button:
     enable : true
-    label : "Contact Us"
+    label : "お問い合わせ"
     link : "contact/"
 ---
