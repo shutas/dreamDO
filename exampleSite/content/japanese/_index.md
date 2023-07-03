@@ -12,36 +12,35 @@ banner:
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "Something You Need To Know"
+  title : "提供サービス一覧"
   feature_item:
     # feature item loop
-    - name : "Clean Code"
-      icon : "fas fa-code"
+    - name : "キャリア診断"
+      icon : "fas fa-check"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "Object Oriented"
-      icon : "fas fa-object-group"
+    - name : "就活戦略・ロードマップ策定"
+      icon : "fas fa-road"
+      content : "就職を希望する会社への内定獲得までの戦略的なロードマップを策定し、直近および中長期的に取り組むべきことを明確にします。"
+      
+    # feature item loop
+    - name : "キャリア面談"
+      icon : "fas fa-briefcase"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "24h Service"
-      icon : "fas fa-user-clock"
+    - name : "履歴書の添削"
+      icon : "fas fa-file"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "Value For Money"
-      icon : "fas fa-heart"
+    - name : "模擬面接"
+      icon : "fas fa-comments"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
     # feature item loop
-    - name : "Faster Response"
-      icon : "fas fa-tachometer-alt"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-      
-    # feature item loop
-    - name : "Cloud Support"
-      icon : "fas fa-cloud"
+    - name : "その他サービス"
       content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
       
 
