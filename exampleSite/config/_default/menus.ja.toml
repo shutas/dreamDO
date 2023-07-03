@@ -1,11 +1,11 @@
 # main menu
 [[main]]
-name = "About Us"
+name = "会社概要"
 url = "about-us/"
 weight = 1
 
 [[main]]
-name = "Our Services"
+name = "サービス一覧"
 url = "our-services/"
 weight = 2
 
@@ -20,7 +20,7 @@ weight = 2
 #weight = 3
 
 [[main]]
-name = "Contact"
+name = "お問い合わせ"
 url = "contact/"
 weight = 4
 
@@ -31,40 +31,42 @@ weight = 4
 
 # footer menu left
 [[footer_left]]
-name = "About Us"
-url = "#"
+name = "会社概要"
+url = "about-us/"
+weight = 1
 
 [[footer_left]]
-name = "Quick Start"
-url = "#"
+name = "サービス一覧"
+url = "our-services/"
+weight = 2
 
-[[footer_left]]
-name = "Pricing"
-url = "pricing/"
+#[[footer_left]]
+#name = "Pricing"
+#url = "pricing/"
 
 
 # footer menu middle
 [[footer_middle]]
-name = "Pricing"
-url = "pricing/"
-
-[[footer_middle]]
-name = "Platform"
-url = "#"
-
-[[footer_middle]]
-name = "Features"
-url = "#"
-
-# footer menu right
-[[footer_right]]
-name = "Privacy Policy"
+name = "プライバシーポリシー"
 url = "privacy-policy/"
 
-[[footer_right]]
-name = "Terms & Conditions"
+[[footer_middle]]
+name = "利用規約"
 url = "terms-conditions/"
 
-[[footer_right]]
-name = "FAQ"
+[[footer_middle]]
+name = "よくあるご質問"
 url = "faq/"
+
+# footer menu right
+#[[footer_right]]
+#name = "Privacy Policy"
+#url = "privacy-policy/"
+
+#[[footer_right]]
+#name = "Terms & Conditions"
+#url = "terms-conditions/"
+
+#[[footer_right]]
+#name = "FAQ"
+#url = "faq/"

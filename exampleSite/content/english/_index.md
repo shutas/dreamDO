@@ -76,7 +76,7 @@ service:
     - title : "We are a team of professionals with international experience."
       images:
       - "images/service-2.png"
-      content : "Our career advisors were once in your shoes who now work globally. We know the best way to your dream career since we are already there."
+      content : "Our career advisors were once in your shoes who now work globally. We know the best way to your dream career since we have already done it ourselves."
       button:
         enable : false
         label : "Check it out"
