@@ -1,5 +1,5 @@
 ---
-title: "Our Services"
+title: "サービス一覧"
 subtitle: ""
 # meta description
 description: "This is meta description"

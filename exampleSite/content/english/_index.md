@@ -66,7 +66,7 @@ service:
     - title : "We partner with select corporations to offer exclusive career opportunities."
       images:
       - "images/service-1.png"
-      content : "We maintain strong relationships with corporations from various industries who are looking for multilingual talent. You will have access to exclusive offers using our existing relationships."
+      content : "We maintain strong relationships with corporations from various industries who are looking for multilingual talent. You will have access to exclusive offers through our existing relationships."
       button:
         enable : false
         label : "Check it out"

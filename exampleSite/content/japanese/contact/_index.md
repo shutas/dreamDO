@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "お問い合わせ"
 subtitle: ""
 # meta description
 description: "お問い合わせ"

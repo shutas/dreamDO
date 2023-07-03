@@ -1,5 +1,5 @@
 ---
-title: "Datenschutz"
+title: "プライバシーポリシー"
 subtitle: ""
 # meta description
 description: "Dies ist die Metabeschreibung"

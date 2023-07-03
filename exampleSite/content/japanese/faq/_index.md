@@ -1,8 +1,8 @@
 ---
-title: "Häufig gestellte Fragen"
+title: "よくあるご質問"
 subtitle: ""
 # meta description
-description: "Dies ist die Metabeschreibung"
+description: "よくあるご質問"
 draft: false
 ---
 

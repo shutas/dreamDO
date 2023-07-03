@@ -50,7 +50,7 @@ service:
   enable : true
   service_item:
     # service item loop
-    - title : "就職に対する「心の声」を聞かせてください。"
+    - title : "就職に対する「心の声」をお聞かせください。"
       images:
       - "images/service-1.png"
       - "images/service-2.png"

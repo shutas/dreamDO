@@ -1,5 +1,5 @@
 ---
-title: "Allgemeine Geschäftsbedingungen"
+title: "利用規約"
 subtitle: ""
 # meta description
 description: "Dies ist die Metabeschreibung"
