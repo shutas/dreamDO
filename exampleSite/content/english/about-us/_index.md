@@ -7,21 +7,23 @@ draft: false
 ---
 
 ## Our Team
+DreamDO Career is lead by a team of professionals with broad experience in various facets of corporate management.
 
 ### Shun Tsukazaki
-Chief Executive Officer
+_Chief Executive Officer_<br/><br/>
 
 ### Lilica Kurata
-Chief Financial Officer
+_Chief Financial Officer_<br/><br/>
 
 ### Momoko Sato
-Chief Operating Officer
+_Chief Operating Officer_<br/><br/>
 
 ### Natsuki Mizutani
-Chief Marketing Officer
+_Chief Marketing Officer_<br/><br/>
 
 ### Shuta Suzuki
-Chief Information Officer / Chief Information Security Officer
+_Chief Information Officer / Chief Information Security Officer_<br/>
+Shuta oversees the technical operations and cybersecurity at DreamDO Career. <br/><br/>
 
-### General Counsel
-Maya Tsukazaki
+### Maya Tsukazaki
+_General Counsel_<br/><br/>
