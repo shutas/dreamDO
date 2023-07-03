@@ -7,6 +7,7 @@ author = "DreamDO Career"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact form action
 contact_form_action = "https://formspree.io/f/mwkdedka" # contact form works with https://formspree.io
+favicon = "images/favicon.png"
 
 # Type of pages to be rendered with a blog view
 blogCategoryType = "category"
