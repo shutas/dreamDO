@@ -1,12 +1,12 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Lassen Sie uns Ihre kritischen Herausforderungen bei der Website <br> Entwicklung lösen"
+  title : "人生一度きり。 <br> 夢を見るだけでは終われない。"
   image : "images/banner-art.svg"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus"
+  content : "グローバルな時代だからこそ、海外で働きたい。<br>そんな夢をDreamDO Careerは応援します。"
   button:
     enable : true
-    label : "Contact Us"
+    label : "お問い合わせ"
     link : "contact/"
 
 ##################### Feature ##########################
@@ -17,31 +17,31 @@ feature:
     # feature item loop
     - name : "キャリア診断"
       icon : "fas fa-check"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "独自開発のキャリア診断ツールにより、生まれ持った強みを生かせる最適な職業・キャリアパスをご提案いたします。"
       
     # feature item loop
     - name : "就活戦略・ロードマップ策定"
       icon : "fas fa-road"
-      content : "就職を希望する会社への内定獲得までの戦略的なロードマップを策定し、直近および中長期的に取り組むべきことを明確にします。"
+      content : "就職を希望する会社への内定獲得までの戦略的なロードマップを策定し、直近および中長期的に取り組むべきことを明確にいたします。"
       
     # feature item loop
     - name : "キャリア面談"
       icon : "fas fa-briefcase"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "業界や職種に応じた海外での就活プロセスの解説や、キャリア全般に関するご質問にお答えするためにオンラインの個人面談を実施いたします。"
       
     # feature item loop
     - name : "履歴書の添削"
       icon : "fas fa-file"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "英語の履歴書類（レジュメ・カバーレター等）を口頭でフィードバックまたは文面にて添削いたします。"
       
     # feature item loop
     - name : "模擬面接"
       icon : "fas fa-comments"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "面接での受け答え力を強化するため、納得できる実力に達するまで模擬面接を実施いたします。"
       
     # feature item loop
     - name : "その他サービス"
-      content : "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+      content : "上記以外でも、理想のキャリアを手に入れるためにDreamDO Careerがお手伝いできることがあれば、ご要望ベースでお応えいたします。"
       
 
 
