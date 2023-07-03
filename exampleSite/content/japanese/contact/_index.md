@@ -1,15 +1,13 @@
 ---
-title: "Kontakt"
+title: "Contact"
 subtitle: ""
 # meta description
-description: "Dies ist die Metabeschreibung"
+description: "お問い合わせ"
 draft: false
 ---
 
 
-### Warum Sie uns kontaktieren sollten!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+### 夢見るキャリアへの第一歩を踏み出しましょう
+DreamDO Careerとともに、世界にインパクトを与える理想のキャリアを手に入れましょう。ご相談・ご質問については、フォームまたはメールよりお問い合わせください。
 
-* **Phone: +88 125 256 452** 
-* **Mail: info@bigspring.com**
-* **Address: 360 Main rd, Rio, Brazil**
+* **メールアドレス: support@dreamdo-career.com**
