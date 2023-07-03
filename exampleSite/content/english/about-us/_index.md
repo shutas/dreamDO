@@ -7,7 +7,7 @@ draft: false
 ---
 
 ## Our Executive Team
-DreamDO Career is lead by a team of professionals with broad experience in various facets of corporate management.
+DreamDO Career is lead by a team of professionals with broad experience in various facets of corporate management. <br/><br/>
 
 ### Shun Tsukazaki
 **Chief Executive Officer** <br/><br/>

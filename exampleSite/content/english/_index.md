@@ -25,7 +25,7 @@ feature:
       content : "We build strategic roadmaps based on your personal career goal to guide you what steps you need to take now until you secure your dream job."
       
     # feature item loop
-    - name : "Career Consulting"
+    - name : "Career Counseling"
       icon : "fas fa-briefcase"
       content : "We provide one-on-one online sessions with one of our career professionals to go over any questions/concerns you may have with the job search process."
       

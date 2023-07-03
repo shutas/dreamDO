@@ -1,0 +1,24 @@
+[readmore]
+other = "もっと読む"
+
+[translations]
+other="翻訳"
+
+[error404]
+other = "ページが見つかりませんでした。"
+
+[yourname]
+other = "氏名"
+
+[youremail]
+other = "メールアドレス"
+
+[subject]
+other = "件名"
+
+[yourmessage]
+other = "メッセージ本文"
+
+[sendnow]
+other = "送信"
+
