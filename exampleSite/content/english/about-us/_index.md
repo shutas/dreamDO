@@ -22,8 +22,10 @@ _Chief Operating Officer_ <br/><br/>
 _Chief Marketing Officer_ <br/><br/>
 
 ### Shuta Suzuki
-_Chief Information Officer / Chief Information Security Officer_ <br/>
-Shuta oversees the technical operations and cybersecurity at DreamDO Career. <br/><br/>
+<div style="text-align:left"><img src="../../images/headshot/shuta.jpg" alt="drawing" width="25%" style="display: block; margin: 0px;"/></div>
+
+**Chief Information Officer / Chief Information Security Officer** <br/>
+Shuta Suzuki oversees the technical operations and cybersecurity at DreamDO Career. Shuta has a B.S. in Computer Science from the University of Michigan-Ann Arbor, and he has professional experience as a cybersecurity consultant.<br/><br/><br/>
 
 ### Maya Tsukazaki
 _General Counsel_ <br/><br/>

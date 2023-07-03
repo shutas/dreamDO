@@ -1,13 +1,13 @@
 ---
-title: "About Us"
+title: "会社概要"
 subtitle: ""
 # meta description
-description: "DreamDO Careerの役員一覧"
+description: "DreamDO Careerの会社概要"
 draft: false
 ---
 
-## 役員
-DreamDo Careerは、幅広い経験を有する企業経営のプロフェッショナルによってリードされています。
+## 役員一覧
+DreamDO Careerは、幅広い経験を有する企業経営のプロフェッショナルによってリードされています。
 
 ### 塚崎 駿太朗
 最高経営責任者（CEO）<br/><br/>
@@ -22,8 +22,10 @@ DreamDo Careerは、幅広い経験を有する企業経営のプロフェッシ
 最高マーケティング責任者（CMO）<br/><br/>
 
 ### 鈴木 秀汰
-最高情報責任者（CIO） / 最高情報セキュリティ責任者（CISO）<br/>
-米国の大学（コンピュータサイエンス専攻）を卒業後、外資系コンサルティングファームのニューヨーク事務所にてサイバーセキュリティコンサルティングに従事。その後、東京事務所へ転籍し、サイバーセキュリティ戦略策定業務に携わる。 <br/>
+<div style="text-align:left"><img src="../../images/headshot/shuta.jpg" alt="drawing" width="25%" style="display: block; margin: 0px;"/></div>
+
+**最高情報責任者（CIO） / 最高情報セキュリティ責任者（CISO）** <br/>
+米国の大学（コンピュータサイエンス専攻）を卒業後、大手外資系コンサルティングファームのニューヨーク事務所にてサイバーセキュリティコンサルティングに従事。その後、東京事務所へ転籍した後も、一貫してサイバーセキュリティ領域に携わる。 <br/><br/><br/>
 
 ### Maya Tsukazaki
 法務顧問<br/><br/>
