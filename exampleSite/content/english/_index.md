@@ -53,9 +53,7 @@ service:
     # service item loop
     - title : "We are your trusted career advisors."
       images:
-      - "images/service-1.png"
-      - "images/service-2.png"
-      - "images/service-3.png"
+      - "images/home-3.png"
       content : "We offer private career consulting sessions so that we can have honest discussions about your career and how to make it happen. Your information is strictly confidential with us."
       button:
         enable : false
@@ -75,7 +73,7 @@ service:
     # service item loop
     - title : "We are a team of professionals with international experience."
       images:
-      - "images/service-2.png"
+      - "images/home-1.png"
       content : "Our career advisors were once in your shoes who now work globally. We know the best way to your dream career since we have already done it ourselves."
       button:
         enable : false

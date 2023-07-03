@@ -52,9 +52,7 @@ service:
     # service item loop
     - title : "就職に対する「心の声」をお聞かせください。"
       images:
-      - "images/service-1.png"
-      - "images/service-2.png"
-      - "images/service-3.png"
+      - "images/home-3.png"
       content : "自分の気持ちに正直なキャリアを歩んでほしいからこそ、信頼できるパートナーでありたい。完全個別指導を通して、あなたの夢を応援いたします。"
       button:
         enable : false
@@ -74,7 +72,7 @@ service:
     # service item loop
     - title : "海外経験が豊富なプロフェッショナルがサポートします。"
       images:
-      - "images/service-2.png"
+      - "images/home-1.png"
       content : "海外の就職活動を成功させた自社のプロフェッショナル陣が直接あなたをサポートいたします。自身の経験に基づいているからこそ、的確なアドバイスを提供できます。"
       button:
         enable : false
