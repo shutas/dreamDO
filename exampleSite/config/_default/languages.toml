@@ -6,9 +6,9 @@ contentDir = "content/english" # content/english
 weight = 1
 ########### footer content ##########
 footer_menu_left = "Company"
-footer_menu_middle = "Product"
-footer_menu_right = "Support"
-footer_content = "We help you DO what it takes to land your dream career."
+footer_menu_middle = "Support"
+#footer_menu_right = "Support"
+footer_content = "We help you _DO_ what it takes to land your dream career."
 # copyright
 copyright = "Copyright &copy; 2023 DreamDO Career"
 
@@ -21,9 +21,9 @@ title = "DreamDO Career"
 contentDir = "content/japanese"
 weight = 2
 ########### footer content ##########
-footer_menu_left = "Firma"
-footer_menu_middle = "Produkte"
-footer_menu_right = "Support"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+footer_menu_left = "企業情報"
+footer_menu_middle = "サポート"
+#footer_menu_right = "Support"
+footer_content = "海外で働く夢に向かって動く君の行動（ _DO_ ）をサポートします"
 # copyright
-copyright = "Design von [Themefisher](https://themefisher.com/) Entwickelt von [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Copyright &copy; 2023 DreamDO Career"
