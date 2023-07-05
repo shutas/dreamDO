@@ -17,7 +17,7 @@ feature:
     # feature item loop
     - name : "Career Assessment"
       icon : "fas fa-check"
-      content : "We assess your inherent strengths and weaknesses to help you identify professions and career paths that naturally suites your innate abilities."
+      content : "We assess your inherent strengths and weaknesses to help you identify professions and career paths that naturally suite your innate abilities."
       
     # feature item loop
     - name : "Job Hunt Strategy/Roadmap"
@@ -84,7 +84,7 @@ service:
     - title : "Our services for students are always free of charge."
       images:
       - "images/service-3.png"
-      content : "We do not charge even a single penny for any career services we provide to our student clients. We want you to dedicate your time searching for your dream careers instead of worrying about how to fund the search."
+      content : "We do not charge even a single penny for any career services we provide to our student clients. We want you to dedicate your time searching for your dream career instead of worrying about how to fund the search."
       button:
         enable : false
         label : "Check it out"
