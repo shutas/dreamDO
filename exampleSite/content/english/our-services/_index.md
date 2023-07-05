@@ -16,6 +16,7 @@ All of our services are provided at **no cost** (now and in the future) for our 
 - Career Counseling
 - Resume Review
 - Mock Interview
+- Legal Advice
 
 If there are special requests that we can accomodate, we are more than happy to work with you to fulfill your needs.
 

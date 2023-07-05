@@ -40,9 +40,9 @@ feature:
       content : "We conduct online mock interviews with targeted questions to help you brush up your interview responses."
       
     # feature item loop
-    - name : "...and more!"
-      #icon : "fas fa-cloud"
-      content : "We provide personalized career services to the best of our abilities based on individual needs and requests to help you achieve your career goal."
+    - name : "Legal Advice"
+      icon : "fas fa-balance-scale"
+      content : "We provide legal advice around H1-B \"work\" visa application process (U.S. only - legal advice provided by our certified lawyers)."
       
 
 

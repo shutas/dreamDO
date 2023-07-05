@@ -22,10 +22,10 @@ DreamDO Careerは、幅広い経験を有する企業経営のプロフェッシ
 **最高マーケティング責任者（CMO）** <br/><br/>
 
 ### 鈴木 秀汰
-<div style="text-align:left"><img src="../../images/headshot/shuta.jpg" alt="drawing" width="25%" style="display: block; margin: 0px;"/></div>
+<div style="text-align:left"><img src="../../images/headshot/shuta.jpg" alt="drawing" width="30%" style="display: block; margin: 0px;"/></div>
 
 **最高情報責任者（CIO） /　最高情報セキュリティ責任者（CISO）** <br/>
-米国の大学（コンピュータサイエンス専攻）を卒業後、大手外資系コンサルティングファームのニューヨーク事務所にてサイバーセキュリティコンサルティングに従事。その後、東京事務所へ転籍した後も、一貫してサイバーセキュリティ領域に携わる。 <br/><br/><br/>
+米国の大学（コンピュータサイエンス専攻）を卒業後、大手外資系コンサルティング会社のニューヨーク事務所にてサイバーセキュリティコンサルティングに従事。その後、東京事務所へ転籍した後も、一貫してサイバーセキュリティ領域に携わり現在に至る。 <br/><br/><br/>
 
 ### 塚崎 マヤ
 **法務顧問（General Counsel）**　<br/><br/>

@@ -40,8 +40,9 @@ feature:
       content : "面接での受け答え力を強化するため、納得できる実力に達するまで模擬面接を実施いたします。"
       
     # feature item loop
-    - name : "その他サービス"
-      content : "上記以外でも、理想のキャリアを手に入れるためにDreamDO Careerがお手伝いできることがあれば、ご要望ベースでお応えいたします。"
+    - name : "法的助言"
+      icon : "fas fa-balance-scale"
+      content : "就労ビザ（H1-B Visa）の取得プロセスについて、弊社の登録弁護士が助言いたします。［米国のみ］"
       
 
 

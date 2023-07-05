@@ -26,7 +26,7 @@ Momoko Sato oversees the day-to-day business operations at DreamDO Career. Momok
 Natsuki Mizutani oversees marketing and partnerships at DreamDO Career. Natsuki holds a B.B.A. in Finance from Baruch College, and she has professional experience in business strategy and processes.<br/><br/><br/>
 
 ### Shuta Suzuki
-<div style="text-align:left"><img src="../../images/headshot/shuta.jpg" alt="drawing" width="25%" style="display: block; margin: 0px;"/></div>
+<div style="text-align:left"><img src="../../images/headshot/shuta.jpg" alt="drawing" width="30%" style="display: block; margin: 0px;"/></div>
 
 **Chief Information Officer / Chief Information Security Officer** <br/>
 Shuta Suzuki oversees technical operations and cybersecurity at DreamDO Career. Shuta holds a B.S. in Computer Science from the University of Michigan-Ann Arbor, and he has professional experience in cybersecurity.<br/><br/><br/>
