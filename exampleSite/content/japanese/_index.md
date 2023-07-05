@@ -83,7 +83,7 @@ service:
     # service item loop
     - title : "学生向けのサービスは完全無料です。"
       images:
-      - "images/service-3.png"
+      - "images/home-4.png"
       content : "夢に向かって理想のキャリアを作るためだけに全力投球してほしいからこそ、費用の心配は一切かけたくないのがDreamDO Careerの想いです。"
       button:
         enable : false

@@ -63,7 +63,7 @@ service:
     # service item loop
     - title : "We partner with select corporations to offer exclusive career opportunities."
       images:
-      - "images/service-1.png"
+      - "images/5853t.png"
       content : "We maintain strong relationships with corporations from various industries who are looking for multilingual talent. You will have access to exclusive offers through our existing relationships."
       button:
         enable : false
@@ -83,7 +83,7 @@ service:
     # service item loop
     - title : "Our services for students are always free of charge."
       images:
-      - "images/service-3.png"
+      - "images/home-4.png"
       content : "We do not charge even a single penny for any career services we provide to our student clients. We want you to dedicate your time searching for your dream career instead of worrying about how to fund the search."
       button:
         enable : false
