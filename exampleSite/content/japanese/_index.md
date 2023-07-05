@@ -2,7 +2,7 @@
 ####################### Banner #########################
 banner:
   title : "人生一度きり。 <br> 夢を見るだけでは終われない。"
-  image : "images/banner-art.svg"
+  image : "images/home.png"
   content : "グローバルな時代だからこそ、海外で働きたい。<br>そんな夢をDreamDO Careerは応援いたします。"
   button:
     enable : true
@@ -102,7 +102,7 @@ service:
 call_to_action:
   enable : true
   title : "理想のキャリアを手に入れてみませんか？"
-  image : "images/cta.svg"
+  image : "images/home-0.png"
   content : "夢は見るだけでなく、自分の手でつかむもの。DreamDO Careerと一緒に、理想のキャリアを手に入れましょう。"
   button:
     enable : true

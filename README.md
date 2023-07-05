@@ -118,6 +118,7 @@ share those images.
 - [Slick Slider](https://kenwheeler.github.io/slick/)
 - [Google Fonts](https://fonts.google.com/)
 - [All Contributors](https://github.com/themefisher/bigspring-hugo/graphs/contributors)
+- https://www.freepik.com/author/pch-vector
 
 ##👨‍💻Hire Us
 

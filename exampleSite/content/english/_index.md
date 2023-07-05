@@ -2,7 +2,7 @@
 ####################### Banner #########################
 banner:
   title : "Don't just dream a career.<br>Make it a reality."
-  image : "images/banner-art.svg"
+  image : "images/home.png"
   content : "We help ambitious Japanese students land a dream job overseas.<br>It's much easier to dream a career than to live in it, so we are here to help you _DO_&nbsp; what it takes to get there."
   button:
     enable : true
@@ -102,7 +102,7 @@ service:
 call_to_action:
   enable : true
   title : "Ready to build your dream career?"
-  image : "images/cta.svg"
+  image : "images/home-0.png"
   content : "You can't live the dream unless you start somewhere. Contact us and take your first step towards your dream career."
   button:
     enable : true
