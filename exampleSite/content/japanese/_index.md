@@ -63,7 +63,7 @@ service:
     # service item loop
     - title : "理想のキャリアに近づくための特別な機会を提供いたします。"
       images:
-      - "images/service-1.png"
+      - "images/home-5.png"
       content : "マルチリンガルな人材を求める幅広い業界の企業と提携しており、非公開の特別なオファーをご用意しております。理想のキャリア構築のためにご活用ください。"
       button:
         enable : false

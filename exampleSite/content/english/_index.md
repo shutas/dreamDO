@@ -63,7 +63,7 @@ service:
     # service item loop
     - title : "We partner with select corporations to offer exclusive career opportunities."
       images:
-      - "images/5853t.png"
+      - "images/home-5.png"
       content : "We maintain strong relationships with corporations from various industries who are looking for multilingual talent. You will have access to exclusive offers through our existing relationships."
       button:
         enable : false
