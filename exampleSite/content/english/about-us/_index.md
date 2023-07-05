@@ -15,7 +15,7 @@ Shun Tsukazaki oversees the overall corporate management at DreamDO Career. Shun
 
 ### Lilica Kurata
 **Chief Financial Officer** <br/>
-Lilica Kurata oversees finance and investments at DreamDO Career. Lilica holds a M.Sc. in Finance from the University of Edinburgh and a B.A. in Management Studies at the University of Leicester, and she has professional experience in business strategy consulting.<br/><br/><br/>
+Lilica Kurata oversees finance and investments at DreamDO Career. Lilica holds a M.Sc. in Finance from the University of Edinburgh and a B.A. in Management Studies from the University of Leicester, and she has professional experience in business strategy consulting.<br/><br/><br/>
 
 ### Momoko Sato
 **Chief Operating Officer** <br/>
