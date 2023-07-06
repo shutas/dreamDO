@@ -9,6 +9,9 @@ type: "regular"
 description: "This is meta description"
 # post draft
 draft: false
+sitemap:
+  changefreq: weekly
+  priority: 0.0
 ---
 
 

@@ -1,4 +1,8 @@
 ---
+sitemap:
+  changefreq: weekly
+  priority: 1.0
+
 ####################### Banner #########################
 banner:
   title : "人生一度きり。 <br> 夢を見るだけでは終われない。"

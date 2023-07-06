@@ -1,4 +1,8 @@
 ---
+sitemap:
+  changefreq: weekly
+  priority: 1.0
+
 ####################### Banner #########################
 banner:
   title : "Don't just dream a career.<br>Make it a reality."

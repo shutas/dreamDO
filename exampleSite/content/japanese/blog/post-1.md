@@ -9,6 +9,9 @@ type: "featured"
 description: "Dies ist die Metabeschreibung"
 # post draft
 draft: false
+sitemap:
+  changefreq: weekly
+  priority: 0.0
 ---
 
 

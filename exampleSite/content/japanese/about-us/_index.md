@@ -4,6 +4,9 @@ subtitle: ""
 # meta description
 description: "DreamDO Careerの会社概要"
 draft: false
+sitemap:
+  changefreq: weekly
+  priority: 0.8
 ---
 
 ## 役員一覧
