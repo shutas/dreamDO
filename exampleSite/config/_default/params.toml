@@ -2,7 +2,7 @@
 logo = "images/logo.png"
 logo_width = "200px"
 # OpenGraph / Twitter Card metadata
-description = "DreamDO Career is a career consulting firm dedicated to serving Japanese students searching for a dream job overseas."
+description = "DreamDO Career is a career consulting partner dedicated to serving Japanese students searching for a dream job overseas."
 author = "DreamDO Career"
 image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
 # contact form action
@@ -34,12 +34,12 @@ button = "I Accept"
 [[social]]
 title = "facebook"
 icon = "fab fa-facebook" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/groups/304898885271831"
 
 [[social]]
 title = "twitter"
 icon = "fab fa-twitter" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/dreamdo_career"
 
 #[[social]]
 #title = "skype"
@@ -49,4 +49,4 @@ link = "#"
 [[social]]
 title = "linkedin"
 icon = "fab fa-linkedin" # themify icon : https://themify.me/themify-icons
-link = "#"
+link = "https://linkedin.com/company/dreamdo-career"
