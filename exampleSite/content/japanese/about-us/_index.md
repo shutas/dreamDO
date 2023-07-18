@@ -10,6 +10,8 @@ draft: false
 DreamDO Careerは、幅広い経験を有する企業経営のプロフェッショナルによってリードされています。<br/><br/>
 
 ### 塚崎 駿太朗
+<div style="text-align:left"><img src="../../images/headshot/shun.jpg" alt="drawing" width="30%" style="display: block; margin: 0px;"/></div>
+
 **最高経営責任者（CEO）** <br/>
 ワシントン大学（経済学）を卒業後、大手外資系コンサルティング会社のニューヨーク事務所にてIT監査とサイバーセキュリティコンサルティングに従事。DreamDO Career参画前から留学生のサポートに携わる。 <br/><br/><br/>
 

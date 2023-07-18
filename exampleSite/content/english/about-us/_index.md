@@ -10,6 +10,8 @@ draft: false
 DreamDO Career is lead by a team of professionals with broad experience in various facets of corporate management. <br/><br/>
 
 ### Shun Tsukazaki
+<div style="text-align:left"><img src="../../images/headshot/shun.jpg" alt="drawing" width="30%" style="display: block; margin: 0px;"/></div>
+
 **Chief Executive Officer** <br/>
 Shun Tsukazaki oversees the overall corporate management at DreamDO Career. Shun holds a B.A. in Economics from the University of Washington, and he has professional experience in management consulting.<br/><br/><br/>
 
