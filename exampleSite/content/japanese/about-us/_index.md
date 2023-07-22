@@ -16,6 +16,8 @@ DreamDO Careerは、幅広い経験を有する企業経営のプロフェッシ
 ワシントン大学（経済学）を卒業後、大手外資系コンサルティング会社のニューヨーク事務所にてIT監査とサイバーセキュリティコンサルティングに従事。DreamDO Career参画前から留学生のサポートに携わる。 <br/><br/><br/>
 
 ### 藏田 梨々香
+<div style="text-align:left"><img src="../../images/headshot/lilica.jpg" alt="drawing" width="30%" style="display: block; margin: 0px;"/></div>
+
 **最高財務責任者（CFO）** <br/>
 レスター大学（経営学）を卒業後、エディンバラ大学にて修士号（金融学）を取得。大手外資系コンサルティング会社にて戦略コンサルティングに従事。 <br/><br/><br/>
 

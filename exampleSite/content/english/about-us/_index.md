@@ -16,6 +16,8 @@ DreamDO Career is lead by a team of professionals with broad experience in vario
 Shun Tsukazaki oversees the overall corporate management at DreamDO Career. Shun holds a B.A. in Economics from the University of Washington, and he has professional experience in management consulting.<br/><br/><br/>
 
 ### Lilica Kurata
+<div style="text-align:left"><img src="../../images/headshot/lilica.jpg" alt="drawing" width="30%" style="display: block; margin: 0px;"/></div>
+
 **Chief Financial Officer** <br/>
 Lilica Kurata oversees finance and investments at DreamDO Career. Lilica holds a M.Sc. in Finance from the University of Edinburgh and a B.A. in Management Studies from the University of Leicester, and she has professional experience in business strategy consulting.<br/><br/><br/>
 
