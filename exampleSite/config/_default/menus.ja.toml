@@ -46,17 +46,17 @@ weight = 2
 
 
 # footer menu middle
-[[footer_middle]]
-name = "プライバシーポリシー"
-url = "privacy-policy/"
+#[[footer_middle]]
+#name = "プライバシーポリシー"
+#url = "privacy-policy/"
 
-[[footer_middle]]
-name = "利用規約"
-url = "terms-conditions/"
+#[[footer_middle]]
+#name = "利用規約"
+#url = "terms-conditions/"
 
-[[footer_middle]]
-name = "よくあるご質問"
-url = "faq/"
+#[[footer_middle]]
+#name = "よくあるご質問"
+#url = "faq/"
 
 # footer menu right
 #[[footer_right]]
