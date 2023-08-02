@@ -46,17 +46,17 @@ weight = 2
 
 
 # footer menu middle
-[[footer_middle]]
-name = "Privacy Policy"
-url = "privacy-policy/"
+#[[footer_middle]]
+#name = "Privacy Policy"
+#url = "privacy-policy/"
 
-[[footer_middle]]
-name = "Terms & Conditions"
-url = "terms-conditions/"
+#[[footer_middle]]
+#name = "Terms & Conditions"
+#url = "terms-conditions/"
 
-[[footer_middle]]
-name = "FAQ"
-url = "faq/"
+#[[footer_middle]]
+#name = "FAQ"
+#url = "faq/"
 
 # footer menu right
 #[[footer_right]]
