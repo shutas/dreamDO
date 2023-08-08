@@ -6,26 +6,50 @@ description: "Dies ist die Metabeschreibung"
 draft: false
 ---
 
-#### Responsibility of Contributors
+[キャリアコンサルティングファーム] のウェブサイトへようこそ。本ウェブサイトの利用およびアクセスにより、以下の利用規約に従うことに同意したものとみなされます。サービスの利用前に、これらの規約を注意深くお読みください。
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed 
+1. 提供するサービス
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+[キャリアコンサルティングファーム] は、お客様の求職活動やキャリア開発をサポートするためのキャリアコンサルティングサービスを提供しています。サービス内容には、履歴書の作成、面接対策、求職戦略、キャリアコーチングなどが含まれる場合があります。
 
-#### Gathering of Personal Information
+2. お客様の責任
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+サービスの利用に際して、お客様は正確で最新の情報を提供することに同意します。個人情報や職務に関連する詳細な情報を適切に提供してください。また、アカウント情報の機密性を維持し、アカウントの利用に関連するすべての活動に責任を負うものとします。
 
-#### Protection of  Personal- Information
+3. 機密保持
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. 
+当社は、コンサルティングプロセスで共有される情報の機密性を理解しています。[キャリアコンサルティングファーム] は、お客様から提供された個人情報や職務に関連する情報を、法律で要求されない限り、明示的な同意なしに第三者に開示しません。
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat 
+4. 支払いと返金
 
-#### Privacy Policy Changes
+サービス利用に伴う料金に同意するものとします。料金の詳細は、コンサルティングサービスを開始する前にお伝えいたします。料金が支払われ次第、コンサルティングサービスをスケジュールします。
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but  limited to, email addresses, telephone numbers
-4. Any Update come in The technology  Customer will get automatic  Notification.
+返金については、ケースごとに検討し、当社の裁量に基づく場合があります。コンサルティングサービスが提供された後には返金が行われない場合があります。
+
+5. 責任制限
+
+[キャリアコンサルティングファーム] は、サービスやウェブサイトの利用に起因する直接的または間接的な損害、付随的な損害、特別な損害、結果的な損害、罰則的損害、利益の喪失、収益の喪失に対して一切の責任を負いません。
+
+6. 知的財産権
+
+[キャリアコンサルティングファーム] が提供するガイド、テンプレート、アドバイスなどのすべてのコンテンツと資料は、著作権と知的財産権によって保護されています。これらの資料は個人的な使用に限り、当社の書面による許可なく複製、配布、販売することはできません。
+
+7. 第三者リンク
+
+当社のウェブサイトには第三者のウェブサイトへのリンクが含まれる場合があります。これらのリンクは利便性を提供するものですが、当社はこれら外部サイトの内容を保証しません。第三者のウェブサイトとのやり取りにより生じる損害や損失について、[キャリアコンサルティングファーム] は一切の責任を負いません。
+
+8. 免責事項
+
+お客様は、[キャリアコンサルティングファーム]、その役員、従業員、関連会社を、本サービスの利用やこれらの利用規約に違反することに起因するいかなる請求、責任、損害、損失、費用からも免責するものとします。
+
+9. 準拠法
+
+これらの利用規約は、[お客様の国または地域] の法律に基づいて解釈されます。これらの規約から生じるいかなる紛争についても、[お客様の国または地域] の管轄裁判所に専属的な管轄権があります。
+
+10. 利用規約の変更
+
+[キャリアコンサルティングファーム] は、これらの利用規約をいつでも変更する権利を留保します。変更があった場合はウェブサイトに掲示し、変更後もサービスを利用することで改訂された規約に同意したものとみなします。
+
+当社の利用規約に関する質問や懸念がある場合は、[連絡先情報] までお問い合わせください。
+
+[キャリアコンサルティングファーム] をご利用いただき、キャリアゴールの達成に向けてお手伝いできることを心よりお喜び申し上げます。
