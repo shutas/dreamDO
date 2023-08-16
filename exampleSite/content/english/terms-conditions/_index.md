@@ -6,6 +6,8 @@ description: "Terms and Conditions for DreamDO Career"
 draft: false
 ---
 
+_Effective Date: September 1st, 2023_
+
 Welcome to DreamDO Career's website. By accessing and using this website, you agree to be bound by the following Terms and Conditions. Please read these terms carefully before using our services.
 
 #### 1. Services Provided
@@ -46,7 +48,7 @@ These Terms and Conditions shall be governed by and construed in accordance with
 
 #### 10. Changes to Terms and Conditions
 
-DreamDO Career reserves the right to modify these Terms and Conditions at any time. Any changes will be posted on this website, and your continued use of our services after the modifications constitute your acceptance of the revised terms.
+DreamDO Career reserves the right to modify these Terms and Conditions at any time. Any changes will be posted on this website, and your continued use of our services after the modifications constitute your acceptance of the revised terms. We will post the revised terms on our website with the effective date.
 
 If you have any questions or concerns about our Terms and Conditions, please contact us at support@dreamdo-career.com.
 
