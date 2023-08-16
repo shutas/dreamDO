@@ -50,9 +50,9 @@ weight = 2
 #name = "Privacy Policy"
 #url = "privacy-policy/"
 
-#[[footer_middle]]
-#name = "Terms & Conditions"
-#url = "terms-conditions/"
+[[footer_middle]]
+name = "Terms & Conditions"
+url = "terms-conditions/"
 
 #[[footer_middle]]
 #name = "FAQ"
