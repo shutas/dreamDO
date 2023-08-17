@@ -54,9 +54,9 @@ url = "privacy-policy/"
 name = "利用規約"
 url = "terms-conditions/"
 
-#[[footer_middle]]
-#name = "よくあるご質問"
-#url = "faq/"
+[[footer_middle]]
+name = "よくあるご質問"
+url = "faq/"
 
 # footer menu right
 #[[footer_right]]

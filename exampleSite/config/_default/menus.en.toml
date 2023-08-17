@@ -54,9 +54,9 @@ url = "privacy-policy/"
 name = "Terms & Conditions"
 url = "terms-conditions/"
 
-#[[footer_middle]]
-#name = "FAQ"
-#url = "faq/"
+[[footer_middle]]
+name = "FAQ"
+url = "faq/"
 
 # footer menu right
 #[[footer_right]]
