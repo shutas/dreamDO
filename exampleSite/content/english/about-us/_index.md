@@ -38,7 +38,3 @@ Natsuki Mizutani oversees marketing and partnerships at DreamDO Career. Natsuki 
 
 **Chief Information Officer / Chief Information Security Officer** <br/>
 Shuta Suzuki oversees technical operations and cybersecurity at DreamDO Career. Shuta holds a B.S. in Computer Science from the University of Michigan-Ann Arbor, and he has professional experience in cybersecurity.<br/><br/><br/>
-
-### Maya Tsukazaki
-**General Counsel** <br/>
-Maya Tsukazaki oversees the overall legal affairs including compliance at DreamDO Career. Maya holds a J.D. and M.A. in International Affairs from American University and a B.B.A from the University of Washington, and she has professional experience in immigration law.<br/><br/><br/>
