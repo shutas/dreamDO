@@ -5,7 +5,7 @@ title = "DreamDO Career"
 contentDir = "content/english" # content/english
 weight = 1
 ########### footer content ##########
-footer_menu_left = "Company"
+footer_menu_left = "Team"
 footer_menu_middle = "Support"
 #footer_menu_right = "Support"
 footer_content = "We help you _DO_ what it takes to land your dream career."
@@ -21,7 +21,7 @@ title = "DreamDO Career"
 contentDir = "content/japanese"
 weight = 2
 ########### footer content ##########
-footer_menu_left = "企業情報"
+footer_menu_left = "組織情報"
 footer_menu_middle = "サポート"
 #footer_menu_right = "Support"
 footer_content = "海外で働く夢を持つ学生が、前を向いて進むために。"
